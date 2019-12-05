@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../netty-code" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty-code/all" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty-code/bom" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty-code/buffer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty-code/codec" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty-code/codec-dns" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty-code/codec-haproxy" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty-code/codec-http" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty-code/codec-http2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty-code/codec-memcache" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty-code/codec-mqtt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty-code/codec-redis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty-code/codec-smtp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty-code/codec-socks" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty-code/codec-stomp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty-code/codec-xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty-code/common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty-code/dev-tools" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty-code/example" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty-code/handler" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty-code/handler-proxy" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty-code/microbench" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty-code/resolver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty-code/resolver-dns" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty-code/tarball" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty-code/transport" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty-code/transport-native-epoll" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty-code/transport-native-kqueue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty-code/transport-native-unix-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty-code/transport-rxtx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty-code/transport-sctp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netty-code/transport-udt" charset="UTF-8" />
+  </component>
+</project>
