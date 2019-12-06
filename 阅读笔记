@@ -1,0 +1,4 @@
+1. 编译过程
+    1.     <!-- <tcnative.classifier>windows-x86_64</tcnative.classifier>-->
+            https://netty.io/wiki/native-transports.html
+    2.     Error:(27, 32) java: 程序包io.netty.util.collection不存在
